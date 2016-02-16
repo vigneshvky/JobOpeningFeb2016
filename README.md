@@ -11,17 +11,18 @@ Education And Experience :
     Education: Anyone with Computer Science background is welcome to apply.
     
 Other Qualifications : 
-    *Python
-    *Knowledge about Databases
-    *Linux
-    *Experience with source controllers (git,svn,etc)
-    *Detail oriented person with the ability to focus and organize her/his work
-    *Team Spirit. One, who is at the service of the team, takes initiatives and is eager to create opportunities for others. 
-    *Communication Skills
+    *Python</br>
+    *Knowledge about Databases</br>
+    *Linux</br>
+    *Experience with source controllers (git,svn,etc)</br>
+    *Detail oriented person with the ability to focus and organize her/his work</br>
+    *Team Spirit. One, who is at the service of the team, takes initiatives and is eager to create opportunities for others. </br>
+    *Communication Skills</br>
 
 Benefits:
-    *Opportunity to work at a major startup
-    *Full-time salary, will be based on experience, performance and equity compensation
+    *Opportunity to work at a major startup</br>
+    *Full-time salary, will be based on experience, performance and equity compensation</br>
+    
     
 If interested please follow the introductions in HowToApply.txt.
 
