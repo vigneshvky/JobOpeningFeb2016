@@ -13,9 +13,8 @@ Education And Experience :
 Other Qualifications : 
     *Python
     *Knowledge about Databases
-    *Linux and SSH usage
+    *Linux
     *Experience with source controllers (git,svn,etc)
-    *Apache(configuration, optimization, SSL)
     *Detail oriented person with the ability to focus and organize her/his work
     *Team Spirit. One, who is at the service of the team, takes initiatives and is eager to create opportunities for others. 
     *Communication Skills
