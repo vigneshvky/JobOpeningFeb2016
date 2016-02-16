@@ -1,14 +1,14 @@
-Question 1.</br>
-	Write three small Python programs to generate te Fibonacci sequence.</br>
-	a> Without using recursion.</br>
-	b> Using recursion.</br>
-Question 2.</br>
+Question 1.
+	Write three small Python programs to generate te Fibonacci sequence.
+	a> Without using recursion.
+	b> Using recursion.
+Question 2.
 	Write a function that given a list of non negative integers, arranges them such that they form the largest possible number.
 	For example, given [50, 2, 1, 9], the largest formed number is 95021.
-Question 3.</br>
+Question 3.
 	Write a function that combines two lists by alternatingly taking elements.
 	For example: given the two lists [a, b, c] and [1, 2, 3], the function should return [a, 1, b, 2, c, 3].
-Question 4.</br>
-	Design a database that handles user registration. </br>
-	What is the structure of the database.</br>
-	How will you determine if a user already exists?</br>
+Question 4.
+	Design a database that handles user registration.
+	What is the structure of the database.
+	How will you determine if a user already exists?
