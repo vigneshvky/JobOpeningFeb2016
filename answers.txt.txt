@@ -1,0 +1,37 @@
+ANSWERS:
+
+1) Python programs to generate te Fibonacci sequence.
+	
+	a).Using looping technique:
+
+	def fibonacci(n):
+		a,b = 1,1
+		for i in range(n-1):
+				a,b = b,a+b
+		return a
+	print fibonacci(5) // 5 is the input how many number we need.
+
+	b).Using recursion
+
+	def fibRecursion(n):
+		if n==1 or n==2:
+			return 1
+		return fibonacci(n-1) + fibonacci(n-2)
+	print fibRecursion(5)
+	
+2) Write a function that given a list of non negative integers, arranges them such that they form the largest possible number.
+	For example, given [50, 2, 1, 9], the largest formed number is 95021.
+	
+	print 'Enter numers,use q to stop'
+	l = []
+	while True:
+		user_input = raw_input('Enter numers: ')
+		if user_input == 'q':
+			break
+		else:
+			l.append(user_input)
+
+	num_list = (float(i) for i in l)
+	print sorted(num_list, reverse=True)
+	
+	
